@@ -1,1 +1,1 @@
-system.out
+System.out.println("fds")
